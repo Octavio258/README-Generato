@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Octavio258/README-Generato#readme",
   "dependencies": {
+    "fs": "^0.0.1-security",
     "inquirer": "^8.2.0"
   }
 }
